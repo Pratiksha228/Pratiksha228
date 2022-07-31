@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I am Pratiksha Rale
 
-<!--
-**Pratiksha228/Pratiksha228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏫 Student at MIT Academy of Engineering, Pune
+- 🌱 I’m currently learning Machine Learning
+- 👯 I’m looking to collaborate on projects based on Computer Vision
+- ⚡ Hobbies: Like to Dance & sketching Anime Characters.
 
-Here are some ideas to get you started:
+<h4>Skills</h4>
+Java, Machine Learning, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>Stats</h4>
+![Most Used Langs](https://github-readme-stats.vercel.app/api?username=Pratiksha228&count_private=true&show_icons=true&theme=radical)
+
