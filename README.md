@@ -10,8 +10,8 @@ Java, Machine Learning, SQL
 
 <h4>Stats</h4>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=pratiksha228&count_private=true&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Pratiksha228&count_private=true&show_icons=true&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratiksha228&theme=dracula&)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiksha228&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pratiksha228&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pratiksha228&theme=radical)
