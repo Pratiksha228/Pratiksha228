@@ -1,4 +1,4 @@
-### Hi there 👋, I am Pratiksha Rale
+### Hi there 👋, My name is Pratiksha Rale
 
 - 🏫 Student at MIT Academy of Engineering, Pune
 - 🌱 I’m currently learning Machine Learning
@@ -9,5 +9,7 @@
 Java, Machine Learning, SQL
 
 <h4>Stats</h4>
-![Most Used Langs](https://github-readme-stats.vercel.app/api?username=Pratiksha228&count_private=true&show_icons=true&theme=radical)
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pratiksha228&count_private=true&show_icons=true&theme=radical)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratiksha228&theme=dracula&)
