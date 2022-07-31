@@ -13,3 +13,5 @@ Java, Machine Learning, SQL
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pratiksha228&count_private=true&show_icons=true&theme=radical)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratiksha228&theme=dracula&)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pratiksha228&theme=dark)](https://git.io/streak-stats)
